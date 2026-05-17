@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Samvitha 👋
 
-<!--
-**samvithak7-coder/samvithak7-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Engineering student at CMR Institute of Technology, Bangalore  
+🔭 Building real-world AI applications using Python, Flask, and local LLMs  
+🌱 Currently exploring LLM integration, Computer Vision, and Data Visualization  
+📍 Bangalore, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, C (Basics)  
+**AI/ML:** Machine Learning, LLM Applications (Ollama), Computer Vision  
+**Libraries:** Pandas, NumPy, Matplotlib, TensorFlow, Scikit-Learn  
+**Web:** Flask, HTML, CSS  
+**Tools:** Ollama, Git, Jupyter Notebook, OpenCV  
+**Data Visualization:** Tableau, Power BI, Matplotlib  
+
+---
+
+## 🚀 Projects
+
+### 🏥 Smart Hospital Appointment System
+AI-powered system that analyzes patient symptoms and assigns doctors based on severity.  
+Integrated **Ollama (local LLM)** for symptom classification (Low / Medium / High / Critical).  
+Real-time Tableau dashboard for appointment analytics.  
+`Python` `Flask` `Ollama` `Tableau` `HTML` `CSS`  
+🔗 [View Repo](https://github.com/samvithak7-coder/healthai)
+
+### 🚗 Vigil Netra – Automotive Black Box & Safety System
+AI-based vehicle safety and accident monitoring system.  
+Real-time crash detection, vehicle tracking, and emergency alerts.  
+ML-based impact analysis and driver drowsiness detection.  
+`Python` `TensorFlow` `Scikit-Learn` `OpenCV` `Embedded Systems`  
+🏆 *3rd Prize – Mini Project Exhibition*
+
+### 💳 Secure QR Code Payment Generator
+Web app that generates scannable UPI QR codes for direct scan-to-pay via GPay.  
+`Python` `Flask` `HTML` `CSS` `qrcode`  
+🔗 [View Repo](https://github.com/samvithak7-coder/upi-qr-payment-gateway)
+
+---
+
+## 💼 Experience
+
+**Data Processing & Research Intern** — CSIR Fourth Paradigm Institute (CSIR-4PI)  
+*July 2025 – October 2025*  
+- Data preprocessing & cleaning for AI research projects  
+- Contributed to a sign language recognition model (CBSE content)  
+- Exploratory data analysis & workflow automation  
+
+---
+
+## 🏅 Achievements
+
+- 🥉 3rd Prize – Mini Project Exhibition (Vigil Netra)
+- 🌟 Google Student Ambassador – Gemini AI Movement
+- 🇮🇳 Participated in Smart India Hackathon 2025
+- 🤝 Rotaract Club CMRIT – Support Team Member
+
+---
+
+## 📜 Certifications
+
+- Python for Beginners – Udemy  
+- Data Science with Python – NPTEL  
+- Introduction to Generative AI – Google  
+- Agile & Scrum – Infosys Springboard  
+- Web Development – Infosys Springboard  
+
+---
+
+## 📬 Contact Me
+
+📧 samvithak7@gmail.com  
+📍 Bangalore, India
 - ⚡ Fun fact: ...
 -->
