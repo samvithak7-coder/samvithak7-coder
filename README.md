@@ -4,7 +4,6 @@
 🔭 Building real-world AI applications using Python, Flask, and local LLMs
 🌱 Currently exploring LLM integration, Computer Vision, and Data Visualization
 📍 Bangalore, India
-⚡ Fun fact: I build AI apps that run entirely offline — no cloud, no API keys, just local LLMs doing the work!
 
 ---
 
